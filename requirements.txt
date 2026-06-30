@@ -1,0 +1,9 @@
+azure-functions
+numpy
+scikit-learn
+librosa
+soundfile
+joblib
+azure-storage-blob
+azure-identity
+requests
